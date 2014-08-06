@@ -1,0 +1,15 @@
+VX-REXX OS/2 V2.10 Build B3
+VRX: PMRaw.VRX
+MacroPath: VRM:E:\data\vxrexx\Calydos
+EXEPath: 
+RunParameters: 
+RunDirectory: 
+VRXWindow: __VREMainWindow,1,48,48,8624,9323
+VRXWindow: __VRESectionListWindow,1,36,14888,12129,3385
+VRXWindow: __VREToolsWindow,1,48,9877,4478,1659
+VRXWindow: __VREWindListWindow,1,60,5348,4312,2987
+UserFile: 1
+UserWindow: Window1,1
+UserWindow: WIN_Ack,1
+UserWindow: WIN_NotSup,1
+UserWindow: WIN_Batch,1

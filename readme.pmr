@@ -1,0 +1,43 @@
+
+	PMRaw - Version 2.5 -
+
+English:
+========
+
+	PMRaw is a graphical user interface for Dave Coffin's dcraw. PMRaw 2.5
+	includes dcraw from ver. 9.12 (is contained in PMRaw.zip). This version
+	is compiled with high-memory-support (thnx to Mentore Siesto (mentore.siesto@alice.it) )
+
+	libc06r1.dll is required for dcraw to run (from Innotek's GCC 3.3.5.).
+	vrobj.dll is required for PMRaw to run.
+
+	'hbmsize.exe' is a modified gbmsize.exe (supplied by Heiko Nitzsche)
+	'hbmtest.exe' is supplied by Heiko Nitzsche.
+
+	More about dcraw: http://www.cybercom.net/~dcoffin/dcraw/
+
+	You use this program at your own risk or you must not use it at all.
+
+	June 12, 2012.
+
+Deutsch:
+========
+
+	PMRaw ist eine graphische OberflÑche zu Dave Coffin's dcraw. PMRaw 2.5
+	enthÑlt dcraw in Ver. 9.12 (ist im PMRaw.zip enthalten). Diese Version
+	ist compiliert mit der high-memory-Option (Danke an Mentore Siesto (mentore.siesto@alice.it) )
+
+	Erforderlich ist die Bibliothek libc06r1.dll fÅr dcraw (aus Innotek's GCC 3.3.5.).
+	Erforderlich ist die Bibliothek vrobj.dll fÅr PMRaw.
+
+	'hbmsize.exe' ist ein modifiziertes gbmsize.exe (erstellt von Heiko Nitzsche)
+	'hbmtest.exe' wurde erstellt von Heiko Nitzsche.
+
+	Mehr zu dcraw: http://www.cybercom.net/~dcoffin/dcraw/
+
+	Sie benutzen dieses Programm vollkommen auf eigenes Risiko oder Sie dÅrfen es Åberhaupt nicht benutzen.
+
+	12. Juni 20012.
+
+
+Lutz Wagner (Lutz.Wagner@zworks.de)    http://os2.zworks.de/PMRaw
